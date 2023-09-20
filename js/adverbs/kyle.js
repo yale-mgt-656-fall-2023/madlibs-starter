@@ -1,5 +1,10 @@
 adverbs = adverbs.concat([
     'quickly',
     'foolishly',
-    'coyly'
+    'coyly',
+    'whimsically',
+    'spiritedly',
+    'dazzingly',
+    'bewilderingly',
+    'mesmerizingly'
 ]);
